@@ -1,3 +1,3 @@
 # Task-cli
 Written by Python
-https://github.com/PhoenixReal/Task-cli
+https://github.com/PhoenixReal/Task-cli.git
